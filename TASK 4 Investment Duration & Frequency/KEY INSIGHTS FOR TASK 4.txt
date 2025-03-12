@@ -1,0 +1,22 @@
+🔹KEY INSIGHTS FOR TASK 4:
+
+🗺️Demographics & Participation:
+- Male Investors Dominate: ♂️ > ♀️ (25 males vs. 15 females)
+
+📊⏳Investment Duration Preferences:
+- Majority Prefer Medium-Term Investments (1-5 years): ⏳ (1-5 years duration is most common)
+- 3-5 Years is the Most Popular Duration: 📈 (3-5 years has the highest count)
+- Very Short & Very Long Terms are Less Common: 📉 (<1 year and >5 years are less frequent)
+
+📊📅Investment Monitoring Frequency:
+- Monthly Monitoring is Highly Preferred: 📅 
+- Daily Monitoring is Least Common: ❌ 
+- Weekly Monitoring is Moderate: 📊
+
+📅⏳Relationship Between Duration and Monitoring:
+- Medium-Term Investments are Primarily Monitored Monthly: 📅⏳ (1-5 years duration mostly monitored monthly)
+- Shorter Durations May See More Frequent Monitoring: 🔄 (Some daily/weekly monitoring for <1 year)
+
+♂️♀️Gender Differences in Monitoring:
+- Both Genders Favor Monthly Monitoring: 📅♂️♀️ (Monthly is popular for both males and females)
+- Males Show Slightly Higher Tendency for Weekly Monitoring: ♂️📊 (Males have a slightly higher count for weekly)
