@@ -1,0 +1,25 @@
+🔹KEY INSIGHTS FOR TASK 3:
+
+➡️Average Returns (Potential or Perceived):
+- Gold offers the highest potential/perceived return: 🥇 (Avg. Gold = 5.98)
+- Debentures show the second highest potential/perceived return: 🥈 (Avg. Debentures = 5.75)
+- PPF offers the lowest potential/perceived return: 📉 (Avg. PPF = 2.03)
+- Mutual Funds show relatively lower potential/perceived return: 📊 (Avg. Mutual Funds = 2.55)
+
+📊Investment Avenues by Savings Objectives:
+- Retirement Plan is primarily addressed through Mutual Funds: 📈 
+- Equity is also used for Retirement Planning, but less so than Mutual Funds: 📊 
+- Education is primarily addressed through PPF: 📚
+
+🎯Savings Objectives by Investment Avenues:
+- Mutual Funds are primarily used for Retirement Planning 👴 
+- Equity is used for both Retirement 👴and Healthcare 🏥, but more for Retirement 👴 
+- Fixed Deposits are used for Retirement 👴and Healthcare🏥
+- PPF is used for Retirement 👴and Education🎓
+
+🚀Overall Observations:
+- Mutual Funds are the preferred avenue for Retirement 👴Planning.
+- PPF is seen as a suitable tool for Education 📚savings.
+- There's a mix of investment choices for Healthcare 🏥 savings.
+- Perceived returns vary significantly across different investment avenues.
+
