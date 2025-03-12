@@ -11,7 +11,7 @@ TASK 3: Objective Analysis 📊
 ![DASHBOARD](https://github.com/user-attachments/assets/fc87c269-14e8-46c2-8ab8-802981ab2a70)
 
 TASK 4: Investment Duration & Frequency 📊📅⏳
-![DASHBOARD](https://github.com/user-attachments/assets/a26b33ad-9138-45d0-87a2-bb1ec2dd450e)
+![DASHBOARD](https://github.com/user-attachments/assets/b3f6b4ab-8478-498b-9728-1723b2a89504)
 
 TASK 5: Reasons for Investment 📊🛡️📈💰🧾🔒
 ![DASHBOARD OVERVIEW](https://github.com/user-attachments/assets/93e755dd-c7b6-4a05-b680-86b70a47701b)
