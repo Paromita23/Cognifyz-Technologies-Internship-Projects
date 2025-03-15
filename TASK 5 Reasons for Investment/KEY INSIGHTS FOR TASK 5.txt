@@ -1,0 +1,37 @@
+🔹KEY INSIGHTS FOR TASK 5:
+
+Demographics & Participation:
+- Younger Investors Dominate: 👶 -> 💼 (Age range 21-35)
+- Total Investors: 40 individuals are surveyed.
+- Male Investors Dominate: ♂️ > ♀️ (More males than females)
+
+
+Investment Preferences & Popularity:
+- Mutual Funds are the Most Preferred Investment Avenue: 📈 (Mutual Funds = 18)
+- Equity is the Second Most Preferred: 📊 (Equity = 10)
+- Fixed Deposits are Also Popular: 🛡️ (Fixed Deposits = 9)
+- Public Provident Fund (PPF) is Least Preferred: 📉 (PPF = 3)
+
+
+Reasons for Equity Investment:
+- Capital Appreciation is the Primary Reason for Equity Investments: 🚀 (75% for Capital Appreciation)
+- Dividends are a Secondary Reason: 💰 (20% for Dividends)
+- Liquidity is a Minor Factor: 💧 (5% for Liquidity)
+
+
+Reasons for Mutual Fund Investment:
+- Better Returns are the Primary Driver for Mutual Funds: 💰📈 (60% for Better Returns)
+- Fund Diversification is a Major Factor: 🔄 (32.5% for Fund Diversification)
+- Tax Benefits are Also Considered: 🧾 (7.5% for Tax Benefits)
+
+
+Reasons for Bond Investment:
+- Assured Returns are the Main Reason for Bond Investments: 🛡️ (65% for Assured Returns)
+- Safe Investment is a Significant Factor: 🔒 (32.5% for Safe Investment)
+- Tax Incentives are a Minor Consideration: 🧾 (2.5% for Tax Incentives)
+
+
+Reasons for Fixed Deposit Investment:
+- Risk-Free Nature is the Top Reason for Fixed Deposits: 🛡️ (47.5% for Risk-Free)
+- Fixed Returns are Also Important: 💰 (45% for Fixed Returns)
+- High Interest Rates are a Minor Factor: 📈 (7.5% for High Interest Rates)
