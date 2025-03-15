@@ -1,0 +1,26 @@
+🔹KEY INSIGHTS FOR TASK 6:
+
+➡️OVERVIEW:
+- Financial Consultants are the most popular source of investment information (40.0% of respondents).
+- Newspapers and Magazines remain relevant with 35.0% of investors relying on them.
+- Television and Internet are used less frequently, possibly indicating investors prefer expert guidance or traditional media.
+- The relatively low reliance on the Internet (10.0%) is surprising in today's digital age.
+
+🗺️DEMOGRAPHIC ANALYSIS:
+Gender-Based Insights:
+- Male ♂️ investors show a stronger preference for Newspapers 📰 and Financial Consultants 📈 .
+- Female ♀️ investors are more evenly distributed across information sources.
+- Internet 🌐 usage is most common among the 18-25 age group, aligning with digital native tendencies.
+- Overall, Males Access More Information Sources: ♂️ > ♀️ (More male involvement across sources)
+
+Age-Based Insights:
+- 20-25 Age Group Favors Financial Consultants: 👶📈 (9 in 20-25 group)
+- 26-30 Age Group Uses Newspapers & Magazines the Most: 💼📰 (8 in 26-30 group)
+- Older Investors (31+) Show Moderate Use of All Sources: 👴 (Consistent use across sources, but generally lower)
+- Younger Investors (20-30) are More Actively Seeking Information: 👶💼 > 👴 (Higher engagement in information gathering)
+
+💹INVESTMENT AVENUE ANALYSIS:
+- Mutual Fund: 📰>📈>🌐 (Newspapers best, then consultants, low internet)
+- Equity: 📈📰= (Consultants/Newspapers equal, TV/Internet less)
+- Fixed Deposit: 📈>📰📺 (Consultants best, then newspapers/TV)
+- PPF: 📰>📈 (Newspapers best, then consultants)
